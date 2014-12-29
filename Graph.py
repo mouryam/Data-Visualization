@@ -87,6 +87,7 @@ def visualize_type():
 
 
 def main():
+    visualize_days()
     visualize_type()
 
 if __name__ == "__main__":

@@ -17,7 +17,7 @@ import csv
 
 
 # Put the full path to your CSV/Excel file here
-MY_FILE = "../data/sample_sfpd_incident_all.csv"
+MY_FILE = "../data/SFPD_Incidents_12_7_2014_to_12_14_2014.csv"
 
 
 def parse(raw_file, delimiter):
