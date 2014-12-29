@@ -2,6 +2,7 @@
 Data Visualization Project
 Parse data from an ugly CSV or Excel file, and render it in
 JSON, save to a database, and visualize in graph form.
+
 Part I: Taking data from a CSV/Excel file, and return it into a format
 that is easier for Python to play with.
 
@@ -51,6 +52,6 @@ def main():
 
 	#Print it out
 	print new_data
-    
+
 if __name__ == "__main__":
     main()
